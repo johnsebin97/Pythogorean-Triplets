@@ -1,1 +1,2 @@
-# Pythogorean-Triplets
+# Pythogorean Triplets Visualized
+
